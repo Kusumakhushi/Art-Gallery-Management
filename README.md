@@ -13,7 +13,7 @@ How to run the Art Gallery Management System (agms) Project
 
 7. Run the script http://localhost/agms
 
-Credential for Admin panel :
+ Credential for Admin panel :
 
 Username: admin
 Password: Test@123
